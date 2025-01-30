@@ -1,11 +1,7 @@
-I'm Siddhansh, a 21-year-old individual with a diploma in IT and a strong foundation in coding. Proficient in a diverse range of programming languages, including C, C++, C#, Java, PHP, JavaScript, React, Svelte, Motoko, and Python, I possess a keen enthusiasm for continuous learning and self-improvement.
+I am a 22-year-old passionate Python programmer and web developer, with a strong foundation in IT. I completed my 10th grade from Sterling School, Nerul, with 61%, and then pursued a Diploma in Information Technology from B.V.I.T. Belapur, where I graduated with First Class Distinction (89%) in 2021.
 
-Driven by a passion for growth and development, I am committed to expanding my skills and exploring new technologies. Known for my dedication and honesty, I take pride in being true to my words. As a self-learner, I embrace challenges and strive for excellence in every endeavor.
+After completing my diploma, I dedicated myself to enhancing my web development skills by taking an in-depth online course through Udemy. During this period, I faced significant health challenges that affected my progress for almost two years, but I remained determined. I ultimately completed my web development course and later took a Python Pro course to further refine my skills and knowledge.
 
-Looking forward to contributing my coding expertise and embracing new opportunities for personal and professional advancement.
-- 📫 How to reach me email me on Devsiddhansh@gmail.com
+Along the way, I also explored UI/UX design by learning Figma, broadening my perspective on creating user-friendly and visually appealing web applications. As a result, I now have a strong grasp of both back-end and front-end development, along with an understanding of user interface design principles.
 
-<!---
-SiddhanshManikoth/SiddhanshManikoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am actively seeking new opportunities where I can apply my skills in Python programming, web development, and UI/UX design, while continuing to learn and grow in a dynamic, challenging environment.
